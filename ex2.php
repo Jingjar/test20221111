@@ -14,6 +14,7 @@ echo "Git測試4-1";
 echo "devdevdevdevdev";
 echo "bugfixbugfix";
 echo "bugfixbug%%";
+echo "bugfixbug88";
 for ($i = 0; $i < count($array); $i++) {
     $total1 = $total1 + $array[$i][0];
     $total2 = $total2 + $array[$i][1];
