@@ -5,7 +5,7 @@ echo $array1[2][5];
 $total1 = 0;
 $total2 = 0;
 $total3 = 0;
-
+echo "Git測試";
 for ($i = 0; $i < count($array); $i++) {
     $total1 = $total1 + $array[$i][0];
     $total2 = $total2 + $array[$i][1];
